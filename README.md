@@ -16,10 +16,11 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 ## 📅 Training Roadmap
 
 ### 1. **Foundation Phase**
-- Language: C++ STL / Python 3 essentials
+- Language: C++ STL
+- Policy based data structure
 - Complexity analysis
-- Basic problem types: brute force, greedy, implementation
-- Data structures: arrays, stacks, queues, hash maps
+- Basic problem types: brute force, greedy, implementation, all adhoc
+- Data structures: monotonic stacks, monotonic queues, gp hash table, customs unordered map
 
 ### 2. **Algorithmic Core**
 - Graphs: DFS, BFS, Dijkstra, Union-Find
@@ -31,7 +32,7 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 - Segment Trees / BIT
 - Trie, Suffix Arrays, Hashing
 - Bitmask DP, Matrix Exponentiation
-- Geometry, Combinatorics, HLD (as needed)
+- Geometry, Combinatorics, HLD (as needed), Eular tour
 
 ---
 
@@ -39,9 +40,8 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 | Day       | Activity                     |
 |-----------|------------------------------|
-| Mon/Wed   | Topic-based practice session |
-| Fri       | Editorial + Problem Discussion |
-| Sat/Sun   | Virtual/Live contest (ICPC mirror, etc.) |
+| Fri   | Topic-based learning and Practice session |
+| sat - Wed       | contest on randoms hand pick problems <br> Editorial + Problem Discussion |
 
 > 💡 Students are expected to solve **100+ problems/month** and maintain regular practice logs.
 
@@ -49,13 +49,17 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 ## 🛠️ Repository Structure
 
-📁 sheets/ # Topic-wise problem sheets (PDF/Markdown)
+📁 Contests-topic/ # Topic-wise Contest
+
 📁 practice/ # Hand-picked problems with difficulty labels
-📁 contests/ # Virtual contest sets and analysis
-📁 solutions/ # Editorials or code for selected problems
+
+📁 contests-random/ # contest for learning and analysis
+
+📁 solutions/ # Editorials and code for selected problems
+
 📁 templates/ # Common algorithm and data structure templates
-📄 progress.md # Progress tracking for each student
-📄 roadmap.md # Detailed phase-wise plan
+
+📄 roadmap.md # Detailed contest-wise plan
 
 
 
@@ -63,10 +67,9 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 ## 🌐 Platforms Used
 
-- [Codeforces](https://codeforces.com)
-- [AtCoder](https://atcoder.jp)
 - [CSES Problem Set](https://cses.fi/problemset/)
-- [LightOJ / UVA / SPOJ / LeetCode]
+- [LightOJ](https://lightoj.com/home)
+- [Toph](https://toph.co/)
 
 ---
 
