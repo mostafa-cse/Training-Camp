@@ -38,7 +38,7 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 ## 📈 Weekly Schedule
 
-|                              Day                              |                              Activity                              |
+| Day | Activity |
 |-----------|------------------------------|
 | Fri   | Topic-based learning and Practice session |
 | sat - Wed       | contest on randoms hand pick problems <br> Editorial + Problem Discussion |
