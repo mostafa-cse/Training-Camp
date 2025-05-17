@@ -33,8 +33,8 @@
 
 ## Problem -F:
 
-   This is a full mathematical Problem. This is a common combinatorics nCr Problem. Just determine this equation.
-   Please search on chatgpt for learning nCr concepts.
+   This is a full mathematical Problem. This is a common combinatorics nCr and nPr implementation Problem. Just determine this equation.
+   Please search on chatgpt for learning nCr and nPr concepts.
 
 
 ## Problem - G : 
