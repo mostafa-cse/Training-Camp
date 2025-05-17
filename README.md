@@ -38,12 +38,12 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 ## 📈 Weekly Schedule
 
-| Day       | Activity                     |
+|                              Day                              |                              Activity                              |
 |-----------|------------------------------|
 | Fri   | Topic-based learning and Practice session |
 | sat - Wed       | contest on randoms hand pick problems <br> Editorial + Problem Discussion |
 
-> 💡 Students are expected to solve **100+ problems/month** and maintain regular practice logs.
+> 💡 Students are expected to solve **250+ problems/month** and maintain regular practice logs.
 
 ---
 
