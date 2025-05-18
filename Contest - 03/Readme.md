@@ -32,8 +32,11 @@
 ### Solution - 02(Dot Product) : 
   - Same tricks for determine the radius
   - Using dot produt for determine angle, `θ = ?`;
-    - `**A.B** = Ax * Bx + Ay * By`
-    - using cosing 
+    - **A.B** = Ax * Bx + Ay * By
+    - using cosine formula, **A.B** = |A||B| cosθ
+    - deterine, θ = arccos(**A.B** / |A||B|)
+   - Now we have radius `r` and angle `θ`
+   - so `S = ?`
 
 ## Problem - E(Repetitions) : 
   - Tracking and count is adjacent element is equal
