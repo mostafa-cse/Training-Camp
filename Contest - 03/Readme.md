@@ -65,7 +65,7 @@
   - Base convertion
   - <details> Goal : string Split : istringstream, base conversion using builtin function : stoi () </details>
 
-## Problem - I(I - Permutations) : 
+## Problem - I(Permutations) : 
   - This is Constructive Problem
   - Try to determine when `No Solution`
   - use Testcase as `3, 5, 6, 10`
