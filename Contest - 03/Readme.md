@@ -9,7 +9,7 @@
   - This Problem is very easy catagory string implementation problem
   - Just print `https` when testcase contains `http` and reamin are same
 <details>
-  > Goal : learn and recap some builtin function of string : find(), rbegin(), rend(), substr()
+  ```Goal : learn and recap some builtin function of string : find(), rbegin(), rend(), substr()```
 </details>
 
 ## Problem - C(Missing Number) : 
@@ -25,5 +25,5 @@
   - otherwise put the pointer to current index so `cnt = 1`
 <details>
   > Goal : Solmple two Pointer Appraoch
-<details>
+</details>
 
