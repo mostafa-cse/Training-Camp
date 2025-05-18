@@ -2,14 +2,14 @@
   - This Problem is for testing your recusion implementation skill
   - this is also solve without recursion
   <details> 
-    Goal : Recursive Solution
+    > Goal : Recursive Solution
   </details>
 
 ## Problem - B(Redirect URL) : 
   - This Problem is very easy catagory string implementation problem
   - Just print `https` when testcase contains `http` and reamin are same
 <details>
-  Goal : learn and recap some builtin function of string : find(), rbegin(), rend(), substr()
+  > Goal : learn and recap some builtin function of string : find(), rbegin(), rend(), substr()
 </details>
 
 ## Problem - C(Missing Number) : 
@@ -17,13 +17,13 @@
   - we know that `X ^ X = 0`
   - Just Xor `(1 - N)` then Xor with `n - 1` input element then we get reamin element
 <details>
-  Goal : Xor trick, Math (sum of `n` natural numbers), maping, hashing
+  > Goal : Xor trick, Math (sum of `n` natural numbers), maping, hashing
 </details>
 
 ## Problem - D(Repetitions) : 
   - Tracking and count is adjacent element is equal
   - otherwise put the pointer to current index so `cnt = 1`
 <details>
-  Goal : Solmple two Pointer Appraoch
+  > Goal : Solmple two Pointer Appraoch
 <details>
 
