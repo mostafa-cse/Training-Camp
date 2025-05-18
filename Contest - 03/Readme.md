@@ -37,9 +37,27 @@
     - deterine, θ = arccos(**A.B** / |A||B|)
    - Now we have radius `r` and angle `θ`
    - so `S = ?`
-
+   -  <details> Goal : vector, how/when it works?</details>
 ## Problem - E(Repetitions) : 
   - Tracking and count is adjacent element is equal
   - otherwise put the pointer to current index so `cnt = 1`
   - <details> Goal : Solmple two Pointer Appraoch </details>
 
+## Problem - F(February 29) : 
+  - Given two date
+  - You have to determine number of leap year lies between date
+      - Simple PIE(Principle of Inclusion–Exclusion) formula
+      - Just Implement the Leap Year Formula
+          - if number is divisible by 400
+          - if number is divisible by 4 but not divisible by 100
+          - This formula  = `[(Y / 4) - (Y / 100)] + (Y / 100)`
+          - thus simplify version on code.
+  - <details> Goals : Principle of Inclusion–Exclusion </details>
+
+
+## Problem - G(Increasing Array) : 
+  - Simple adjacent difference sum of  an array
+  - sum + update
+  - <details> Goal : tracking Priveous number by update </details>
+
+  
