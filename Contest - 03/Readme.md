@@ -15,17 +15,25 @@
   - <details> Goal : Xor trick, Math (sum of `n` natural numbers), maping, hashing </details>
 
 ## Problem - D(Minimum Arc Distance) : 
- - Simple geometry Problem
- - Think how can you determine arc distance
-     - if `S` is arc distance/length then, `S = r * θ`
-     - determine radius `r` from `O(x,y) and A(x,y) or B(x,y)` distance as `r = √((x1 - x2)^2 + (y1-y2)^2)`
-     - Now time to determine the angle
-         - let A(x, y) and B(x, y) are two vector
-         - try to use `Law of Cosine`
-         - This law is `AB^2 = OA^2 + OB^2 − 2*OA*OB*cos(θ)`
-         - what is `θ = ?`
- - Now we have radius `r` and angle `θ`
- - so `S = ?`
+
+### Solution - 01 (using Cosin laws) : 
+   - Simple geometry Problem
+   - Think how can you determine arc distance
+       - if `S` is arc distance/length then, `S = r * θ`
+       - determine radius `r` from `O(x,y) and A(x,y) or B(x,y)` distance as `r = √((x1 - x2)^2 + (y1-y2)^2)`
+       - Now time to determine the angle
+           - let A(x, y) and B(x, y) are two vector
+           - try to use `Law of Cosine`
+           - This law is `AB^2 = OA^2 + OB^2 − 2*OA*OB*cos(θ)`
+           - what is `θ = ?`
+   - Now we have radius `r` and angle `θ`
+   - so `S = ?`
+
+### Solution - 02(Dot Product) : 
+  - Same tricks for determine the radius
+  - Using dot produt for determine angle, `θ = ?`;
+    - `**A.B** = Ax * Bx + Ay * By`
+    - using cosing 
 
 ## Problem - E(Repetitions) : 
   - Tracking and count is adjacent element is equal
