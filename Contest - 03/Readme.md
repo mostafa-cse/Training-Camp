@@ -60,4 +60,19 @@
   - sum + update
   - <details> Goal : tracking Priveous number by update </details>
 
-  
+## Problem - H(IP Checking) : 
+  - Simple string manupulation problem
+  - Base convertion
+  - <details> Goal : string Split : istringstream, base conversion using builtin function : stoi () </details>
+
+## Problem - I(I - Permutations) : 
+  - This is Constructive Problem
+  - Try to determine when `No Solution`
+  - use Testcase as `3, 5, 6, 10`
+  - You get a sequence as even then odd
+  - <details> Goals : determine sequence of a Problem, construct answer using output.</details>
+
+## Problem - J(Array Simulation) : 
+  - This is Pure Bruteforces Problem
+  - just iterate this query according to the input
+  - <details>Goal : Bruteforces</details>
