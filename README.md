@@ -80,6 +80,7 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 - [CSES Problem Set](https://cses.fi/problemset/)
 - [LightOJ](https://lightoj.com/home)
 - [Toph](https://toph.co/)
+- [CodeForces](https://codeforces.com/)
 
 ---
 
