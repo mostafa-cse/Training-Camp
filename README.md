@@ -15,11 +15,21 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 
 ## 📅 Training Roadmap
 
-### 1. **Foundation Phase**
+### 1. **Foundation Phase(Running)**
 - Language: C++ STL
 - Policy based data structure
 - Complexity analysis
-- Basic problem types: brute force, greedy, implementation, all adhoc
+- Basic problem types: brute force, greedy, implementation
+- Two Pointer
+- Sliding Window
+- Prefix Sum, Difference array, Prtial Sum
+- Bitmask, Bit Manupulation
+- Binary Search
+- Ternary Search
+- Simulation, Observation Practice
+- Greedy
+- Resursion
+- String Practice
 - Data structures: monotonic stacks, monotonic queues, gp hash table, customs unordered map
 
 ### 2. **Algorithmic Core**
