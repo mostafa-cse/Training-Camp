@@ -22,7 +22,8 @@ Welcome to the **Competitive Programming Training Repository**! This is a curate
 - Basic problem types: brute force, greedy, implementation
 - Two Pointer
 - Sliding Window
-- Prefix Sum, Difference array, Prtial Sum
+- Precalculation or Precomputation
+- Prefix Sum, Difference array, Partial Sum
 - Bitmask, Bit Manupulation
 - Binary Search
 - Ternary Search
